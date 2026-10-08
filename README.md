@@ -1,4 +1,4 @@
-# PRJ-37: AgriGateNet — Lightweight Attention-Gated CNN for Edge-Based Weed Detection
+# AgriGateNet — Lightweight Attention-Gated CNN for Edge-Based Weed Detection
 
 > **Course Outcome**: CO6 — Evaluation of Different CNN Algorithms on Well-Formulated Problems with Valid Conclusions  
 > **Novel Architecture**: DSSAG (Dual-Path Spectral-Spatial Attention Gate) Block  
