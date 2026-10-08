@@ -1,0 +1,20 @@
+{
+  "model_name": "shufflenetv2",
+  "split": "test",
+  "accuracy": 0.851,
+  "f1_macro": 0.8543,
+  "f1_weighted": 0.8633,
+  "precision": 0.8503,
+  "recall": 0.8583,
+  "per_class_f1": {
+    "Chinee_apple": 0.8654,
+    "Lantana": 0.8308,
+    "Parkinsonia": 0.8846,
+    "Parthenium": 0.8154,
+    "Prickly_acacia": 0.85,
+    "Rubber_vine": 0.8846,
+    "Siam_weed": 0.8769,
+    "Snake_weed": 0.8192,
+    "Negative": 0.8615
+  }
+}

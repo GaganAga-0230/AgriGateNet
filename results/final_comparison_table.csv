@@ -1,0 +1,7 @@
+Model,Params (M),FLOPs (M),Accuracy (%),F1 Macro,Latency (ms),Size (MB)
+Baseline CNN,0.391,1498.16,54.7,0.5346,13.55,1.49
+MobileNetV3-Small,1.527,122.93,88.2,0.8812,15.76,5.83
+EfficientNet-B0,4.019,827.75,91.4,0.9197,32.02,15.33
+ShuffleNetV2-0.5x,0.351,87.11,85.1,0.8543,17.58,1.34
+SqueezeNet1.1,0.727,526.81,82.1,0.8103,15.65,2.77
+AgriGateNet (Ours),0.425,593.46,92.7,0.9286,39.19,1.63

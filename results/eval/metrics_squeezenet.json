@@ -1,0 +1,20 @@
+{
+  "model_name": "squeezenet",
+  "split": "test",
+  "accuracy": 0.821,
+  "f1_macro": 0.8103,
+  "f1_weighted": 0.8193,
+  "precision": 0.8063,
+  "recall": 0.8143,
+  "per_class_f1": {
+    "Chinee_apple": 0.8,
+    "Lantana": 0.8077,
+    "Parkinsonia": 0.8192,
+    "Parthenium": 0.85,
+    "Prickly_acacia": 0.8154,
+    "Rubber_vine": 0.8077,
+    "Siam_weed": 0.7885,
+    "Snake_weed": 0.8115,
+    "Negative": 0.7923
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "model_name": "baseline",
+    "flops_M": 1498.16,
+    "params_M": 0.391,
+    "flops_vs_efficientnet": 1.81
+  },
+  {
+    "model_name": "mobilenetv3",
+    "flops_M": 122.93,
+    "params_M": 1.527,
+    "flops_vs_efficientnet": 0.149
+  },
+  {
+    "model_name": "efficientnet",
+    "flops_M": 827.75,
+    "params_M": 4.019,
+    "flops_vs_efficientnet": 1.0
+  },
+  {
+    "model_name": "shufflenetv2",
+    "flops_M": 87.11,
+    "params_M": 0.351,
+    "flops_vs_efficientnet": 0.105
+  },
+  {
+    "model_name": "squeezenet",
+    "flops_M": 526.81,
+    "params_M": 0.727,
+    "flops_vs_efficientnet": 0.636
+  },
+  {
+    "model_name": "agrigatenet",
+    "flops_M": 593.46,
+    "params_M": 0.425,
+    "flops_vs_efficientnet": 0.717
+  }
+]

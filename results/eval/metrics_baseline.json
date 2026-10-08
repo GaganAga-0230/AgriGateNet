@@ -1,0 +1,20 @@
+{
+  "model_name": "baseline",
+  "split": "test",
+  "accuracy": 0.547,
+  "f1_macro": 0.5346,
+  "f1_weighted": 0.5436,
+  "precision": 0.5306,
+  "recall": 0.5386,
+  "per_class_f1": {
+    "Chinee_apple": 0.5154,
+    "Lantana": 0.5346,
+    "Parkinsonia": 0.5308,
+    "Parthenium": 0.5077,
+    "Prickly_acacia": 0.5692,
+    "Rubber_vine": 0.5154,
+    "Siam_weed": 0.5346,
+    "Snake_weed": 0.5385,
+    "Negative": 0.5654
+  }
+}
